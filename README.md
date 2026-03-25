@@ -1,26 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a0a00,2d1000,f97316&height=220&section=header&text=Xabilimon&fontSize=72&fontColor=f97316&animation=fadeIn&fontAlignY=40&desc=AI%20Student%20%26%20Developer&descAlignY=58&descAlign=50&descSize=18&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a0a00,2d1000,f97316&height=240&section=header&text=Xabilimon&fontSize=74&fontColor=f97316&animation=fadeIn&fontAlignY=42&fontFamily=Raleway&desc=AI%20Developer%20%C2%B7%20Claude%20Code%20Skills%20%C2%B7%20Full-Stack%20Web%20Apps%20%C2%B7%20UFV%20Madrid&descAlignY=61&descAlign=50&descSize=15&descColor=94a3b8" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=AI+Student+%40+Universidad+Francisco+de+Vitoria;Building+tools+for+Claude+Code+%F0%9F%A4%96;Creator+of+TBA+%E2%80%94+Token+Budget+Advisor;Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Vercel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=660&lines=Building+developer+tools+for+the+AI+era;Creator+of+TBA+%E2%80%94+Token+Budget+Advisor+for+Claude+Code;AI+Student+at+Universidad+Francisco+de+Vitoria;Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Vercel)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👋 About me
+### About
 
-I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.ufv.es) (Madrid). I build developer tools and web applications at the intersection of AI and software engineering.
+I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.ufv.es) (Madrid). I build developer tools and web applications at the intersection of AI and practical software engineering.
 
-- 🔭 Currently building **[TBA — Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)** — a Claude Code skill that lets you control token depth before Claude responds
-- 🎓 Studying **Artificial Intelligence** at UFV
-- 🛠️ Working on **Lince Reservations** — internal tooling for university room bookings and data dashboards
-- 🌱 Exploring **LLM tooling**, **agent orchestration**, and **full-stack development**
-- 💬 Ask me about **Claude Code skills** or **building with AI**
+My main project is **[TBA — Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)**, a Claude Code skill that intercepts your prompt, estimates token consumption using a zero-dependency heuristic engine (~85–90% accuracy), and lets you choose how deep Claude's answer should be before it responds.
+
+I also work on **Lince Suite**, a set of internal tools for UFV — room reservations, data dashboards, and operational management — built with TypeScript and Next.js and deployed on Vercel.
+
+Interested in **LLM tooling**, **agent orchestration**, and building production-grade developer experiences.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.uf
 
 ---
 
-### 📌 Featured Project
+### Featured Project
 
 <a href="https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xabilimon1&repo=TBA-Token-Budget-Advisor-Claude-Code&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
@@ -44,16 +44,16 @@ I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.uf
 
 <br/><br/>
 
-> A Claude Code skill that intercepts your prompt, estimates token consumption, and lets you choose **how deep** you want the answer — before Claude responds. Includes a zero-dependency Python estimator with ~85–90% accuracy.
+> A Claude Code skill that intercepts your prompt, estimates token consumption, and lets you choose **how deep** you want the answer — before Claude responds. Zero external dependencies, Python 3.8+, ~85–90% accuracy.
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xabilimon1&show_icons=true&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabilimon1&layout=compact&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&text_color=94a3b8&count_private=true&langs_count=6&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xabilimon1&show_icons=true&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabilimon1&layout=compact&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&text_color=94a3b8&count_private=true&langs_count=6" />
 
 </div>
 
@@ -65,7 +65,7 @@ I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.uf
 
 ---
 
-### 🤝 Connect
+### Connect
 
 <div align="center">
 
