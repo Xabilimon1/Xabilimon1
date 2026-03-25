@@ -14,7 +14,7 @@ I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.uf
 
 - 🔭 Currently building **[TBA — Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)** — a Claude Code skill that lets you control token depth before Claude responds
 - 🎓 Studying **Artificial Intelligence** at UFV
-- 🛠️ Working on **Lince Suite** — internal tooling for university room bookings and data dashboards
+- 🛠️ Working on **Lince Reservations** — internal tooling for university room bookings and data dashboards
 - 🌱 Exploring **LLM tooling**, **agent orchestration**, and **full-stack development**
 - 💬 Ask me about **Claude Code skills**, **token estimation heuristics**, or **building with AI**
 
