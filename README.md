@@ -14,7 +14,7 @@ I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.uf
 
 My main project is **[TBA — Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)**, a Claude Code skill that intercepts your prompt, estimates token consumption using a zero-dependency heuristic engine (~85–90% accuracy), and lets you choose how deep Claude's answer should be before it responds.
 
-I also work on **Lince Suite**, a set of internal tools for UFV — room reservations, data dashboards, and operational management — built with TypeScript and Next.js and deployed on Vercel.
+I also work on **Lince Suite**, a set of internal software tools — room reservations, data dashboards, and operational management — built with TypeScript and Next.js and deployed on Vercel.
 
 Interested in **LLM tooling**, **agent orchestration**, and building production-grade developer experiences.
 
