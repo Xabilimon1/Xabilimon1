@@ -1,50 +1,78 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a0a00,2d1000,f97316&height=240&section=header&text=Xabilimon&fontSize=74&fontColor=f97316&animation=fadeIn&fontAlignY=42&fontFamily=Raleway&desc=AI%20Developer%20%C2%B7%20Claude%20Code%20Skills%20%C2%B7%20Full-Stack%20Web%20Apps%20%C2%B7%20UFV%20Madrid&descAlignY=61&descAlign=50&descSize=15&descColor=94a3b8" width="100%"/>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=660&lines=Building+developer+tools+for+the+AI+era;Creator+of+TBA+%E2%80%94+Token+Budget+Advisor+for+Claude+Code;AI+Student+at+Universidad+Francisco+de+Vitoria;Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Vercel)](https://git.io/typing-svg)
-
+  <img src="assets/banner.svg" alt="Xabilimon" width="100%"/>
 </div>
 
 ---
 
-### About
-
-I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.ufv.es) (Madrid). I build developer tools and web applications at the intersection of AI and practical software engineering.
-
-My main project is **[TBA — Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)**, a Claude Code skill that intercepts your prompt, estimates token consumption using a zero-dependency heuristic engine (~85–90% accuracy), and lets you choose how deep Claude's answer should be before it responds.
-
-I also work on **Lince Suite**, a set of internal software tools — room reservations, data dashboards, and operational management — built with TypeScript and Next.js and deployed on Vercel.
-
-Interested in **LLM tooling**, **agent orchestration**, and building production-grade developer experiences.
+I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.ufv.es) (Madrid). I build production software at the intersection of AI and practical engineering — institutional tools, developer utilities, and Claude Code skills.
 
 ---
 
-### Tech Stack
+### Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f97316)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=f97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f97316)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=f97316)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=f97316)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f97316)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=f97316)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=f97316)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=f97316)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=f97316)
 ![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
 
 </div>
 
 ---
 
-### Featured Project
+### Projects
 
-<a href="https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xabilimon1&repo=TBA-Token-Budget-Advisor-Claude-Code&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&icon_color=f97316&text_color=94a3b8" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+#### [LinceReservations](https://github.com/Xabilimon1/LinceReservations)
 
-> A Claude Code skill that intercepts your prompt, estimates token consumption, and lets you choose **how deep** you want the answer — before Claude responds. Zero external dependencies, Python 3.8+, ~85–90% accuracy.
+Full-stack room booking system deployed at [UFV](https://www.ufv.es)'s DOT space. 12 rooms, 4 user roles (student, professor, PAS, admin), real-time sync via Supabase Realtime, Outlook Calendar integration via Microsoft Graph, institutional email via Office 365, admin dashboard with audit logs, blacklist system, XLSX report exports, and 5-language i18n.
+
+`React 19` `TypeScript` `Supabase` `Azure AD` `Vercel` `Tailwind CSS`
+
+[🌐 reservas-salas-dot.vercel.app](https://reservas-salas-dot.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
+
+Claude Code skill that intercepts your prompt, estimates token consumption with a zero-dependency heuristic engine (~85–90% accuracy), and lets you choose how deep Claude's answer should be before it responds.
+
+Contributed to [**everything-claude-code**](https://github.com/affaan-m/everything-claude-code) by affaan-m — the agent harness with 149k+ stars used across the Claude Code ecosystem.
+
+`Python 3.8+` `Claude Code` `zero dependencies`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [save-session](https://github.com/Xabilimon1/save-session)
+
+Claude Code skill that saves compressed session summaries to an Obsidian vault, automatically maintaining bidirectional links between project notes, session logs, and technology nodes.
+
+`Claude Code skill` `Obsidian` `Markdown`
+
+</td>
+<td width="50%" valign="top">
+
+#### Lince Suite
+
+Portfolio of internal web tools for UFV's DOT space — operational management interfaces built as lightweight applications deployed on Vercel.
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -57,20 +85,10 @@ Interested in **LLM tooling**, **agent orchestration**, and building production-
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xabilimon1&theme=dark&background=0d1117&border=f97316&ring=f97316&fire=fbbf24&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
-### Connect
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f97316)](https://github.com/Xabilimon1)
-
+  <a href="https://github.com/Xabilimon1">
+    <img src="https://img.shields.io/badge/GitHub-Xabilimon1-f97316?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a0a00,2d1000,f97316&height=120&section=footer" width="100%"/>

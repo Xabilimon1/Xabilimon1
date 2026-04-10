@@ -1,0 +1,118 @@
+<svg width="1280" height="360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <radialGradient id="hg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="gl" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="gl2" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+
+  <!-- Dot grid -->
+  <g fill="#21262d" opacity="0.35">
+    <circle cx="720" cy="40" r="1"/><circle cx="760" cy="40" r="1"/><circle cx="800" cy="40" r="1"/><circle cx="840" cy="40" r="1"/><circle cx="880" cy="40" r="1"/><circle cx="920" cy="40" r="1"/><circle cx="960" cy="40" r="1"/><circle cx="1000" cy="40" r="1"/><circle cx="1040" cy="40" r="1"/><circle cx="1080" cy="40" r="1"/><circle cx="1120" cy="40" r="1"/><circle cx="1160" cy="40" r="1"/><circle cx="1200" cy="40" r="1"/><circle cx="1240" cy="40" r="1"/>
+    <circle cx="720" cy="80" r="1"/><circle cx="760" cy="80" r="1"/><circle cx="800" cy="80" r="1"/><circle cx="840" cy="80" r="1"/><circle cx="880" cy="80" r="1"/><circle cx="920" cy="80" r="1"/><circle cx="960" cy="80" r="1"/><circle cx="1000" cy="80" r="1"/><circle cx="1040" cy="80" r="1"/><circle cx="1080" cy="80" r="1"/><circle cx="1120" cy="80" r="1"/><circle cx="1160" cy="80" r="1"/><circle cx="1200" cy="80" r="1"/><circle cx="1240" cy="80" r="1"/>
+    <circle cx="720" cy="120" r="1"/><circle cx="760" cy="120" r="1"/><circle cx="800" cy="120" r="1"/><circle cx="840" cy="120" r="1"/><circle cx="880" cy="120" r="1"/><circle cx="920" cy="120" r="1"/><circle cx="960" cy="120" r="1"/><circle cx="1000" cy="120" r="1"/><circle cx="1040" cy="120" r="1"/><circle cx="1080" cy="120" r="1"/><circle cx="1120" cy="120" r="1"/><circle cx="1160" cy="120" r="1"/><circle cx="1200" cy="120" r="1"/><circle cx="1240" cy="120" r="1"/>
+    <circle cx="720" cy="160" r="1"/><circle cx="760" cy="160" r="1"/><circle cx="800" cy="160" r="1"/><circle cx="840" cy="160" r="1"/><circle cx="880" cy="160" r="1"/><circle cx="920" cy="160" r="1"/><circle cx="960" cy="160" r="1"/><circle cx="1000" cy="160" r="1"/><circle cx="1040" cy="160" r="1"/><circle cx="1080" cy="160" r="1"/><circle cx="1120" cy="160" r="1"/><circle cx="1160" cy="160" r="1"/><circle cx="1200" cy="160" r="1"/><circle cx="1240" cy="160" r="1"/>
+    <circle cx="720" cy="200" r="1"/><circle cx="760" cy="200" r="1"/><circle cx="800" cy="200" r="1"/><circle cx="840" cy="200" r="1"/><circle cx="880" cy="200" r="1"/><circle cx="920" cy="200" r="1"/><circle cx="960" cy="200" r="1"/><circle cx="1000" cy="200" r="1"/><circle cx="1040" cy="200" r="1"/><circle cx="1080" cy="200" r="1"/><circle cx="1120" cy="200" r="1"/><circle cx="1160" cy="200" r="1"/><circle cx="1200" cy="200" r="1"/><circle cx="1240" cy="200" r="1"/>
+    <circle cx="720" cy="240" r="1"/><circle cx="760" cy="240" r="1"/><circle cx="800" cy="240" r="1"/><circle cx="840" cy="240" r="1"/><circle cx="880" cy="240" r="1"/><circle cx="920" cy="240" r="1"/><circle cx="960" cy="240" r="1"/><circle cx="1000" cy="240" r="1"/><circle cx="1040" cy="240" r="1"/><circle cx="1080" cy="240" r="1"/><circle cx="1120" cy="240" r="1"/><circle cx="1160" cy="240" r="1"/><circle cx="1200" cy="240" r="1"/><circle cx="1240" cy="240" r="1"/>
+    <circle cx="720" cy="280" r="1"/><circle cx="760" cy="280" r="1"/><circle cx="800" cy="280" r="1"/><circle cx="840" cy="280" r="1"/><circle cx="880" cy="280" r="1"/><circle cx="920" cy="280" r="1"/><circle cx="960" cy="280" r="1"/><circle cx="1000" cy="280" r="1"/><circle cx="1040" cy="280" r="1"/><circle cx="1080" cy="280" r="1"/><circle cx="1120" cy="280" r="1"/><circle cx="1160" cy="280" r="1"/><circle cx="1200" cy="280" r="1"/><circle cx="1240" cy="280" r="1"/>
+    <circle cx="720" cy="320" r="1"/><circle cx="760" cy="320" r="1"/><circle cx="800" cy="320" r="1"/><circle cx="840" cy="320" r="1"/><circle cx="880" cy="320" r="1"/><circle cx="920" cy="320" r="1"/><circle cx="960" cy="320" r="1"/><circle cx="1000" cy="320" r="1"/><circle cx="1040" cy="320" r="1"/><circle cx="1080" cy="320" r="1"/><circle cx="1120" cy="320" r="1"/><circle cx="1160" cy="320" r="1"/><circle cx="1200" cy="320" r="1"/><circle cx="1240" cy="320" r="1"/>
+  </g>
+
+  <!-- Hub radial glow -->
+  <ellipse cx="960" cy="180" rx="145" ry="145" fill="url(#hg)"/>
+
+  <!-- Network lines -->
+  <g stroke="#30363d" stroke-width="1.5" opacity="0.55">
+    <line x1="960" y1="180" x2="960" y2="80"/>
+    <line x1="960" y1="180" x2="1047" y2="130"/>
+    <line x1="960" y1="180" x2="1047" y2="230"/>
+    <line x1="960" y1="180" x2="960" y2="280"/>
+    <line x1="960" y1="180" x2="873" y2="230"/>
+    <line x1="960" y1="180" x2="873" y2="130"/>
+    <line x1="960" y1="80" x2="1047" y2="130"/>
+    <line x1="1047" y1="130" x2="1047" y2="230"/>
+    <line x1="1047" y1="230" x2="960" y2="280"/>
+    <line x1="960" y1="280" x2="873" y2="230"/>
+    <line x1="873" y1="230" x2="873" y2="130"/>
+    <line x1="873" y1="130" x2="960" y2="80"/>
+    <line x1="1047" y1="130" x2="1118" y2="88" opacity="0.4"/>
+    <line x1="1047" y1="230" x2="1132" y2="272" opacity="0.35"/>
+    <line x1="873" y1="130" x2="803" y2="76" opacity="0.4"/>
+    <line x1="873" y1="230" x2="808" y2="294" opacity="0.35"/>
+  </g>
+
+  <!-- Satellite nodes -->
+  <circle cx="1118" cy="88" r="4" fill="#60a5fa" filter="url(#gl)" opacity="0.85"/>
+  <circle cx="1132" cy="272" r="4" fill="#34d399" filter="url(#gl)" opacity="0.85"/>
+  <circle cx="803" cy="76" r="4" fill="#fbbf24" filter="url(#gl)" opacity="0.85"/>
+  <circle cx="808" cy="294" r="4" fill="#f472b6" filter="url(#gl)" opacity="0.85"/>
+
+  <!-- Hexagonal outer nodes -->
+  <circle cx="960" cy="80" r="7" fill="#60a5fa" filter="url(#gl)"/>
+  <circle cx="1047" cy="130" r="7" fill="#34d399" filter="url(#gl)"/>
+  <circle cx="1047" cy="230" r="7" fill="#a78bfa" filter="url(#gl)"/>
+  <circle cx="960" cy="280" r="7" fill="#e2e8f0" filter="url(#gl)"/>
+  <circle cx="873" cy="230" r="7" fill="#fbbf24" filter="url(#gl)"/>
+  <circle cx="873" cy="130" r="7" fill="#3b82f6" filter="url(#gl)"/>
+
+  <!-- Hub node -->
+  <circle cx="960" cy="180" r="17" fill="#f97316" filter="url(#gl2)" opacity="0.35"/>
+  <circle cx="960" cy="180" r="10" fill="#f97316"/>
+  <circle cx="960" cy="180" r="5" fill="#fed7aa"/>
+
+  <!-- Vertical separator -->
+  <line x1="692" y1="38" x2="692" y2="322" stroke="#21262d" stroke-width="1" opacity="0.8"/>
+
+  <!-- Left: eyebrow -->
+  <text x="80" y="66" font-family="system-ui,-apple-system,sans-serif" font-size="12" fill="#f97316" letter-spacing="3" font-weight="600">UFV MADRID · AI DEVELOPER</text>
+
+  <!-- Left: name -->
+  <text x="80" y="168" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="96" font-weight="800" fill="url(#tg)" letter-spacing="-3">Xabilimon</text>
+
+  <!-- Accent underline -->
+  <rect x="80" y="181" width="420" height="4" rx="2" fill="url(#lg)"/>
+
+  <!-- Tagline -->
+  <text x="82" y="224" font-family="system-ui,-apple-system,sans-serif" font-size="17" fill="#8b949e" letter-spacing="0.2">Lince Suite · Token Budget Advisor · Claude Code</text>
+
+  <!-- Badges -->
+  <rect x="82" y="252" width="140" height="26" rx="13" fill="#1a0e00" stroke="#f97316" stroke-width="1"/>
+  <text x="152" y="270" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#f97316" text-anchor="middle">LinceReservations</text>
+
+  <rect x="230" y="252" width="64" height="26" rx="13" fill="#100d1f" stroke="#a78bfa" stroke-width="1"/>
+  <text x="262" y="270" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#a78bfa" text-anchor="middle">TBA</text>
+
+  <rect x="302" y="252" width="100" height="26" rx="13" fill="#0a1f0a" stroke="#34d399" stroke-width="1"/>
+  <text x="352" y="270" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#34d399" text-anchor="middle">Open Source</text>
+
+  <rect x="410" y="252" width="88" height="26" rx="13" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="454" y="270" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Full-Stack</text>
+
+  <rect x="506" y="252" width="108" height="26" rx="13" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+  <text x="560" y="270" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Claude Code</text>
+
+  <rect x="622" y="252" width="60" height="26" rx="13" fill="#0d2010" stroke="#22c55e" stroke-width="1"/>
+  <text x="652" y="270" font-family="system-ui,-apple-system,sans-serif" font-size="11" fill="#22c55e" text-anchor="middle">hireable</text>
+</svg>
