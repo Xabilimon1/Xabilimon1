@@ -12,14 +12,34 @@ I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.uf
 
 <div align="center">
 
+**Languages**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=f97316)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f97316)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f97316)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=f97316)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=f97316)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=f97316)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=f97316)
+
+**Frameworks & Tooling**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=f97316)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=f97316)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=f97316)
+![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
+
+**Platform & Data**
+
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=f97316)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=f97316)
+![Azure AD](https://img.shields.io/badge/Azure_AD-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=f97316)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=f97316)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316)
+
+**AI & Developer Tools**
+
 ![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
 
 </div>
 
@@ -80,8 +100,16 @@ Portfolio of internal web tools for UFV's DOT space — operational management i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Xabilimon1&show_icons=true&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabilimon1&layout=compact&theme=dark&bg_color=0d1117&border_color=f97316&title_color=f97316&text_color=94a3b8&count_private=true&langs_count=6" />
+[![TBA](https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&logo=github&label=TBA%20stars&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
+[![ECC](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/everything-claude-code)
+[![Views](https://komarev.com/ghpvc/?username=Xabilimon1&style=flat-square&color=f97316&label=profile+views&abbreviated=true)](https://github.com/Xabilimon1)
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Xabilimon1&show_icons=true&theme=dark&bg_color=0d1117&border_color=1c2128&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabilimon1&layout=compact&theme=dark&bg_color=0d1117&border_color=1c2128&title_color=f97316&text_color=94a3b8&count_private=true&langs_count=8" />
 
 </div>
 
