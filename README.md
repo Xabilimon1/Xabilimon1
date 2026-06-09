@@ -4,48 +4,55 @@
 
 ---
 
-I'm **Xabi**, an AI student at [Universidad Francisco de Vitoria](https://www.ufv.es) (Madrid). I build production software at the intersection of AI and practical engineering — institutional tools, developer utilities, and Claude Code skills.
+I'm **Xabi**, 2nd-year AI Systems Engineering at [UFV](https://www.ufv.es) (Madrid). I've spent the last year and a half shipping production agent systems — Salesforce-integrated commercial agents, MCP servers with security review iterations, field-ops trainers on Android, multi-language institutional tools. **Now pivoting toward research output** as the prerequisite for the work I actually want to do.
 
 ---
 
-### Stack
+### Now (June 2026)
 
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=f97316)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f97316)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f97316)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f97316)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=f97316)
-
-**Frameworks & Tooling**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=f97316)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=f97316)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=f97316)
-![Zustand](https://img.shields.io/badge/Zustand-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
-
-**Platform & Data**
-
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=f97316)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=f97316)
-![Azure AD](https://img.shields.io/badge/Azure_AD-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=f97316)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=f97316)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316)
-
-**AI & Developer Tools**
-
-![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
-
-</div>
+- **Writing** — empirical ablation study of LLM agent harness components ([harness-ablation](https://github.com/Xabilimon1/harness-ablation))
+- **Studying** — [ARENA](https://www.arena.education/) curriculum, chapter 0 fundamentals ([solutions repo](https://github.com/Xabilimon1/xabier-arena-solutions))
+- **Reading** — Anthropic engineering posts on eval methodology + infrastructure noise
+- **Blog** — in setup; first posts on the journey + paper reading notes
 
 ---
 
-### Projects
+### Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [harness-ablation](https://github.com/Xabilimon1/harness-ablation)
+
+Empirical ablation study of LLM agent harness components — prompt structure, tool selection logic, retry policy, context management, error handling.
+
+Extends Anthropic's *Quantifying infrastructure noise in agentic coding evals* outward: if infra config dominates eval variance, what does the rest of the harness do? Synthetic controlled experiment informed by production deployment experience.
+
+`Python` `Inspect-AI` `Claude` `Gemini` `GPT`
+
+*Status: paper in progress*
+
+</td>
+<td width="50%" valign="top">
+
+#### [xabier-arena-solutions](https://github.com/Xabilimon1/xabier-arena-solutions)
+
+Public journey through ARENA — Alignment Research Engineer Accelerator curriculum — plus the original mech interp experiments I run alongside each chapter.
+
+Builder background, weak research foundations, trying to close the gap before applying to alignment/interp work.
+
+`PyTorch` `Transformers` `Mechanistic Interpretability`
+
+*Status: chapter 0 in progress*
+
+</td>
+</tr>
+</table>
+
+---
+
+### Production
 
 <table>
 <tr>
@@ -64,7 +71,7 @@ Full-stack room booking system deployed at [UFV](https://www.ufv.es)'s DOT space
 
 #### [Token Budget Advisor](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
 
-Claude Code skill that intercepts your prompt, estimates token consumption with a zero-dependency heuristic engine (~85–90% accuracy), and lets you choose how deep Claude's answer should be before it responds.
+Claude Code skill that intercepts your prompt, estimates token consumption with a zero-dependency heuristic engine (measured ~87.6% accuracy vs `tiktoken` cl100k_base), and lets you choose how deep Claude's answer should be before it responds.
 
 Contributed to [**everything-claude-code**](https://github.com/affaan-m/everything-claude-code) by affaan-m — the agent harness with 149k+ stars used across the Claude Code ecosystem.
 
@@ -96,11 +103,52 @@ Portfolio of internal web tools for UFV's DOT space — operational management i
 
 ---
 
+### Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=f97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f97316)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=f97316)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=f97316)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=f97316)
+
+**Frameworks & Tooling**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=f97316)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=f97316)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=f97316)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=f97316)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=f97316)
+
+**Platform & Data**
+
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=f97316)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=f97316)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=f97316)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=f97316)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f97316)
+
+**AI & Agents**
+
+![Anthropic](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=f97316)
+![MCP](https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
+![Inspect AI](https://img.shields.io/badge/Inspect_AI-0d1117?style=for-the-badge&logo=anthropic&logoColor=f97316)
+
+</div>
+
+---
+
 ### Stats
 
 <div align="center">
 
-[![TBA](https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&logo=github&label=TBA%20stars&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
+[![harness-ablation](https://img.shields.io/github/stars/Xabilimon1/harness-ablation?style=flat-square&logo=github&label=harness-ablation&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/harness-ablation)
+[![arena-solutions](https://img.shields.io/github/stars/Xabilimon1/xabier-arena-solutions?style=flat-square&logo=github&label=arena-solutions&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/xabier-arena-solutions)
+[![TBA](https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&logo=github&label=TBA&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
 [![ECC](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/everything-claude-code)
 [![Views](https://komarev.com/ghpvc/?username=Xabilimon1&style=flat-square&color=f97316&label=profile+views&abbreviated=true)](https://github.com/Xabilimon1)
 
