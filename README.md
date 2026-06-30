@@ -161,10 +161,8 @@ Portfolio of internal web tools for UFV's DOT space — operational management i
 
 <br/>
 
-[![harness-ablation](https://img.shields.io/github/stars/Xabilimon1/harness-ablation?style=flat-square&logo=github&label=harness-ablation&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/harness-ablation)
-[![arena-solutions](https://img.shields.io/github/stars/Xabilimon1/xabier-arena-solutions?style=flat-square&logo=github&label=arena-solutions&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/xabier-arena-solutions)
-[![TBA](https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&logo=github&label=TBA&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
-[![ECC stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/ECC)
+[![ECC stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=ECC+contributor&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/ECC)
+[![Inspect AI](https://img.shields.io/badge/eval%20stack-Inspect--AI-f97316?style=flat-square&logo=anthropic&logoColor=white&labelColor=0d1117)](https://inspect.aisi.org.uk/)
 [![Views](https://komarev.com/ghpvc/?username=Xabilimon1&style=flat-square&color=f97316&label=profile+views&abbreviated=true)](https://github.com/Xabilimon1)
 
 <br/>
