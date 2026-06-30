@@ -12,6 +12,7 @@ I'm **Xabi**, 2nd-year AI Systems Engineering at [UFV](https://www.ufv.es) (Madr
 
 - **Writing** — empirical ablation study of LLM agent harness components ([harness-ablation](https://github.com/Xabilimon1/harness-ablation))
 - **Studying** — [ARENA](https://www.arena.education/) curriculum, chapter 0 fundamentals ([solutions repo](https://github.com/Xabilimon1/xabier-arena-solutions))
+- **Contributing** — merged fixes to the [METR/hawk](https://github.com/METR/hawk/pull/627) and [HAL](https://github.com/princeton-pli/hal-harness/pull/182) eval harnesses
 - **Reading** — Anthropic engineering posts on eval methodology + infrastructure noise
 - **Blog** — in setup; first posts on the journey + paper reading notes
 
@@ -50,6 +51,12 @@ Builder background, weak research foundations, trying to close the gap before ap
 </tr>
 </table>
 
+**Merged contributions** — fixes to the eval infrastructure behind frontier-model safety research.
+
+- **[METR/hawk #627](https://github.com/METR/hawk/pull/627)** — [METR](https://github.com/METR) (Model Evaluation & Threat Research). Auth fix in `hawk`, their cloud Inspect-AI eval runner: a passthrough credential header containing only whitespace is now treated as missing (`401` + `anonymous`) instead of surfacing an unactionable `"invalid api key"`. *Merged.*
+- **[princeton-pli/hal-harness #182](https://github.com/princeton-pli/hal-harness/pull/182)** — [HAL](https://github.com/princeton-pli), the Holistic Agent Leaderboard (Princeton PLI). Resolved a `wandb`/`weave`/`gql` version conflict that broke every agent-env container at startup; aligned the three runners, the Docker image, packaging, and contributor docs. *Merged.*
+- **[affaan-m/ECC #920](https://github.com/affaan-m/ECC/pull/920)** — [everything-claude-code](https://github.com/affaan-m/ECC). Contributed the Token Budget Advisor skill. *Merged.*
+
 ---
 
 ### Production
@@ -73,7 +80,7 @@ Full-stack room booking system deployed at [UFV](https://www.ufv.es)'s DOT space
 
 Claude Code skill that intercepts your prompt, estimates token consumption with a zero-dependency heuristic engine (measured ~87.6% accuracy vs `tiktoken` cl100k_base), and lets you choose how deep Claude's answer should be before it responds.
 
-Contributed to [**everything-claude-code**](https://github.com/affaan-m/everything-claude-code) by affaan-m — the agent harness with 149k+ stars used across the Claude Code ecosystem.
+Contributed to [**everything-claude-code**](https://github.com/affaan-m/ECC) (ECC) by affaan-m — the agent harness with 220k+ stars used across the Claude Code ecosystem.
 
 `Python 3.8+` `Claude Code` `zero dependencies`
 
@@ -149,7 +156,7 @@ Portfolio of internal web tools for UFV's DOT space — operational management i
 [![harness-ablation](https://img.shields.io/github/stars/Xabilimon1/harness-ablation?style=flat-square&logo=github&label=harness-ablation&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/harness-ablation)
 [![arena-solutions](https://img.shields.io/github/stars/Xabilimon1/xabier-arena-solutions?style=flat-square&logo=github&label=arena-solutions&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/xabier-arena-solutions)
 [![TBA](https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&logo=github&label=TBA&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
-[![ECC](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/everything-claude-code)
+[![ECC](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/ECC)
 [![Views](https://komarev.com/ghpvc/?username=Xabilimon1&style=flat-square&color=f97316&label=profile+views&abbreviated=true)](https://github.com/Xabilimon1)
 
 </div>
