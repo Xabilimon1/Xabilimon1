@@ -149,22 +149,28 @@ Portfolio of internal web tools for UFV's DOT space — operational management i
 
 ---
 
-### Stats
+### Signal
 
 <div align="center">
+
+**Merged into the eval infrastructure behind frontier-model safety research**
+
+[![METR · hawk #627](https://img.shields.io/badge/METR%20%C2%B7%20hawk%20%23627-merged-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/METR/hawk/pull/627)
+[![Princeton HAL · hal-harness #182](https://img.shields.io/badge/Princeton%20HAL%20%23182-merged-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/princeton-pli/hal-harness/pull/182)
+[![everything-claude-code #920](https://img.shields.io/badge/everything--claude--code%20%23920-merged-f97316?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/affaan-m/ECC/pull/920)
+
+<br/>
 
 [![harness-ablation](https://img.shields.io/github/stars/Xabilimon1/harness-ablation?style=flat-square&logo=github&label=harness-ablation&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/harness-ablation)
 [![arena-solutions](https://img.shields.io/github/stars/Xabilimon1/xabier-arena-solutions?style=flat-square&logo=github&label=arena-solutions&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/xabier-arena-solutions)
 [![TBA](https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&logo=github&label=TBA&color=f97316&labelColor=0d1117)](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code)
-[![ECC](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/ECC)
+[![ECC stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=ECC+%28contributor%29&color=f97316&labelColor=0d1117)](https://github.com/affaan-m/ECC)
 [![Views](https://komarev.com/ghpvc/?username=Xabilimon1&style=flat-square&color=f97316&label=profile+views&abbreviated=true)](https://github.com/Xabilimon1)
 
-</div>
+<br/>
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Xabilimon1&show_icons=true&theme=dark&bg_color=0d1117&border_color=1c2128&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabilimon1&layout=compact&theme=dark&bg_color=0d1117&border_color=1c2128&title_color=f97316&text_color=94a3b8&count_private=true&langs_count=8" />
+**Focus** — agent evals · Inspect-AI · mechanistic interpretability  
+**Working in** — Python · TypeScript · PyTorch
 
 </div>
 
