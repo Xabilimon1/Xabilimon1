@@ -34,12 +34,12 @@ Real systems built for clients and institutions, some live and taking traffic, s
   <tr>
     <td width="50%" valign="top">
       <b>SAM — production LLM agent</b><br />
-      <sub>Commercial + field-ops orchestrator built for Xexterior, a Spanish firm that maintains the exteriors of 2,500+ buildings. A declarative profile-pipeline over Salesforce + Vertex AI / Gemini — adding a new agent is one declarative entry, no core changes. Serves Salesforce Apex (sync) and an Android app (SSE streaming). FastAPI · Cloud Run.</sub><br />
+      <sub>Commercial + field-ops orchestrator built for a Spanish firm that maintains the exteriors of 2,500+ buildings. A declarative profile-pipeline over Salesforce + Vertex AI / Gemini — adding a new agent is one declarative entry, no core changes. Serves Salesforce Apex (sync) and an Android app (SSE streaming). FastAPI · Cloud Run.</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=llm%20agents%20%7C%20fastapi%20%7C%20vertex%20ai&labelColor=4338ca&color=0f172a" alt="focus llm agents" />
     </td>
     <td width="50%" valign="top">
       <b>LinceReservations</b><br />
-      <sub>A study-room booking platform I built for a Madrid university (UFV), designed to their institutional requirements and pending adoption (not yet deployed). Five languages, institutional SSO (Azure AD / MSAL), row-level security, calendar sync. React 19 · TypeScript · Supabase.</sub><br />
+      <sub>A study-room booking platform I built for a private university in Madrid, designed to their institutional requirements and pending adoption (not yet deployed). Five languages, institutional SSO (Azure AD / MSAL), row-level security, calendar sync. React 19 · TypeScript · Supabase.</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=full-stack%20%7C%20react%20%7C%20supabase&labelColor=4338ca&color=0f172a" alt="focus full-stack" />
     </td>
   </tr>
