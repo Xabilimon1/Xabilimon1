@@ -6,9 +6,9 @@
 
 <p align="center"><sub><em>
 AI Engineering student in Madrid, turning from shipping production systems toward research.<br />
-The last year and a half I've put real systems in front of real users — LLM agents over Salesforce, an institutional booking platform a university runs on, a local-first desktop stats app.<br />
-The bugs were the teacher: the bottleneck isn't the engineering, it's the science underneath.<br />
-So I'm working my way in from the applied side — merged fixes to the eval infrastructure behind frontier-model safety, and the lessons written down in public.<br />
+Over the last year and a half I've built production systems: LLM agents over Salesforce taking real traffic, institutional department tooling in real use, a university booking platform built to spec and pending rollout, and a local-first desktop stats app.<br />
+The bugs were the teacher. The bottleneck isn't the engineering, it's the science underneath.<br />
+So I'm working my way in from the applied side, with merged fixes to the eval infrastructure behind frontier-model safety and the lessons written down in public.<br />
 Builder in the concrete, learner in the deep.
 </em></sub></p>
 
@@ -26,9 +26,9 @@ Small fixes, real repos — the eval infrastructure behind frontier-model safety
 
 ---
 
-## Shipped to production
+## Production work
 
-Real systems, real users. Code is private (client / institutional) — writeups on the architecture and the lessons are landing on [xabier.me](https://xabier.me).
+Real systems built for clients and institutions, some live and taking traffic, some built to spec and pending rollout. Code is private; writeups on the architecture and the lessons are landing on [xabier.me](https://xabier.me).
 
 <table>
   <tr>
@@ -39,7 +39,7 @@ Real systems, real users. Code is private (client / institutional) — writeups 
     </td>
     <td width="50%" valign="top">
       <b>Lince Reservations</b><br />
-      <sub>A study-room booking platform a Madrid university (UFV) runs on — real students and staff, five languages, institutional SSO (Azure AD / MSAL), row-level security, calendar sync. React 19 · TypeScript · Supabase.</sub><br />
+      <sub>A study-room booking platform I built for a Madrid university (UFV), designed to their institutional requirements and pending adoption (not yet deployed). Five languages, institutional SSO (Azure AD / MSAL), row-level security, calendar sync. React 19 · TypeScript · Supabase.</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=full-stack%20%7C%20react%20%7C%20supabase&labelColor=4338ca&color=0f172a" alt="focus full-stack" />
     </td>
   </tr>
@@ -113,7 +113,7 @@ Real systems, real users. Code is private (client / institutional) — writeups 
 | Highlight | Detail |
 |---|---|
 | **Merged eval-infra fixes** | 3 PRs into [METR/hawk](https://github.com/METR/hawk/pull/627), [Princeton HAL](https://github.com/princeton-pli/hal-harness/pull/182), and [ECC](https://github.com/affaan-m/ECC/pull/920) — the eval stack behind frontier-model safety research |
-| **Shipped to production** | LLM agents over Salesforce, an institutional booking platform a university runs on, a local-first desktop stats app, department tooling for ~30–40 professors |
+| **Production work** | LLM agents over Salesforce taking real traffic, department tooling for ~30–40 professors in real use, a university booking platform built to spec (pending adoption), a local-first desktop stats app |
 | **Open source** | [reeljet](https://github.com/Xabilimon1/reeljet), [TBA](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code) (merged into ECC), [save-session](https://github.com/Xabilimon1/save-session), and [this blog](https://xabier.me) |
 | **Writing in public** | [xabier.me](https://xabier.me) — a research notebook, bilingual (ES/EN) |
 | **Studying** | 2nd-year AI Systems Engineering at [UFV](https://www.ufv.es), Madrid |
