@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Xabilimon" width="100%"/>
-</div>
+# Xabier Ariznabarreta
+
+<p align="center">
+  <img width="300" alt="Xabier Ariznabarreta" src="assets/xabier-2010.jpg" />
+</p>
 
 <p align="center"><sub><em>
 AI Engineering student in Madrid, pivoting from shipping production agents to safety research.<br />
