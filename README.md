@@ -38,7 +38,7 @@ Real systems built for clients and institutions, some live and taking traffic, s
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=llm%20agents%20%7C%20fastapi%20%7C%20vertex%20ai&labelColor=4338ca&color=0f172a" alt="focus llm agents" />
     </td>
     <td width="50%" valign="top">
-      <b>Lince Reservations</b><br />
+      <b>LinceReservations</b><br />
       <sub>A study-room booking platform I built for a Madrid university (UFV), designed to their institutional requirements and pending adoption (not yet deployed). Five languages, institutional SSO (Azure AD / MSAL), row-level security, calendar sync. React 19 · TypeScript · Supabase.</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=full-stack%20%7C%20react%20%7C%20supabase&labelColor=4338ca&color=0f172a" alt="focus full-stack" />
     </td>
@@ -102,7 +102,7 @@ Real systems built for clients and institutions, some live and taking traffic, s
 
 ## Currently
 
-- **Writing up** the production lessons as case studies on [xabier.me](https://xabier.me) — SAM's agent architecture and the Lince Reservations build first.
+- **Writing up** the production lessons as case studies on [xabier.me](https://xabier.me): SAM's agent architecture and the LinceReservations build first.
 - **Contributing** to eval-framework open source — more PRs in the pipeline after the three above.
 - **Next** — the [ARENA](https://www.arena.education/) alignment curriculum, to build the research foundations under the applied experience.
 
