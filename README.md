@@ -73,14 +73,21 @@ Real systems built for clients and institutions, some live and taking traffic, s
       <img src="https://img.shields.io/github/forks/Xabilimon1/hubble-cosmos?style=flat-square&label=forks&color=818cf8" alt="Hubble forks" />
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/Xabilimon1/leeuwenhoek"><b>Leeuwenhoek</b></a><br />
+      <sub>Mechanistic explanations of ARC's tiny <a href="https://github.com/alignment-research-center/alg-zoo">AlgZoo</a> networks. First specimen: the 32-parameter RNN that finds the median, with its exact accuracy computed from the weights and a twin that matches it input by input. Writeup on <a href="https://xabier.me/posts/2026-11-08-taking-apart-a-32-number-network">xabier.me</a> and <a href="https://www.lesswrong.com/posts/zips8rffWCEALosFD/taking-apart-a-32-number-network">LessWrong</a>.</sub><br />
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=interpretability%20%7C%20python&labelColor=4338ca&color=0f172a" alt="focus interpretability python" /><br />
+      <img src="https://img.shields.io/github/stars/Xabilimon1/leeuwenhoek?style=flat-square&label=stars&color=f59e0b" alt="Leeuwenhoek stars" />
+      <img src="https://img.shields.io/github/forks/Xabilimon1/leeuwenhoek?style=flat-square&label=forks&color=818cf8" alt="Leeuwenhoek forks" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/Xabilimon1/emcc-claude-code-mods"><b>EMCC</b></a><br />
       <sub>Five tested Claude Code mods (453 tests): a live panel of what Claude is doing, a context bar, and a guard against moved goalposts. Listed in <a href="https://github.com/karanb192/awesome-claude-code-mods">awesome-claude-code-mods</a></sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=claude%20code%20%7C%20mods&labelColor=4338ca&color=0f172a" alt="focus claude code mods" /><br />
       <img src="https://img.shields.io/github/stars/Xabilimon1/emcc-claude-code-mods?style=flat-square&label=stars&color=f59e0b" alt="EMCC stars" />
       <img src="https://img.shields.io/github/forks/Xabilimon1/emcc-claude-code-mods?style=flat-square&label=forks&color=818cf8" alt="EMCC forks" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code"><b>TBA — Token Budget Advisor</b></a><br />
       <sub>Depth/cost choice before Claude answers · merged into <a href="https://github.com/affaan-m/ECC/pull/920">ECC</a></sub><br />
@@ -88,6 +95,8 @@ Real systems built for clients and institutions, some live and taking traffic, s
       <img src="https://img.shields.io/github/stars/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&label=stars&color=f59e0b" alt="TBA stars" />
       <img src="https://img.shields.io/github/forks/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code?style=flat-square&label=forks&color=818cf8" alt="TBA forks" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Xabilimon1/save-session"><b>save-session</b></a><br />
       <sub>Claude Code skill — compressed session summaries to a vault</sub><br />
@@ -104,6 +113,7 @@ Real systems built for clients and institutions, some live and taking traffic, s
 
 ## Currently
 
+- **Taking apart** ARC's AlgZoo networks in [Leeuwenhoek](https://github.com/Xabilimon1/leeuwenhoek): the 32-parameter median RNN is [written up](https://xabier.me/posts/2026-11-08-taking-apart-a-32-number-network); next, the law behind its errors and how AI coding agents do on the same task.
 - **Writing up** the lessons as case studies on [xabier.me](https://xabier.me): SAM's agent architecture and the LinceReservations build are up, Hubble's teardown is next.
 - **Contributing** to eval-framework open source — more PRs in the pipeline after the five above.
 - **Next** — the [ARENA](https://www.arena.education/) alignment curriculum, to build the research foundations under the applied experience.
@@ -116,7 +126,7 @@ Real systems built for clients and institutions, some live and taking traffic, s
 |---|---|
 | **Merged contributions** | 5 PRs into [METR/hawk](https://github.com/METR/hawk/pull/627), [Princeton HAL](https://github.com/princeton-pli/hal-harness/pull/182), [AnyPS5](https://github.com/boykopovar/AnyPS5/pull/4555), [ECC](https://github.com/affaan-m/ECC/pull/920), and [awesome-claude-code-mods](https://github.com/karanb192/awesome-claude-code-mods/pull/254) — the eval stack behind frontier-model safety research, and the tools around it |
 | **Production work** | LLM agents over Salesforce taking real traffic, department tooling for ~30–40 professors in real use, a university booking platform built to spec (pending adoption), a local-first desktop stats app |
-| **Open source** | [Hubble](https://github.com/Xabilimon1/hubble-cosmos) (a decompiler for an undocumented format), [EMCC](https://github.com/Xabilimon1/emcc-claude-code-mods) (five Claude Code mods), [TBA](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code) (merged into ECC), [save-session](https://github.com/Xabilimon1/save-session), and [this blog](https://xabier.me) |
+| **Open source** | [Hubble](https://github.com/Xabilimon1/hubble-cosmos) (a decompiler for an undocumented format), [Leeuwenhoek](https://github.com/Xabilimon1/leeuwenhoek) (mechanistic interpretability of ARC's AlgZoo), [EMCC](https://github.com/Xabilimon1/emcc-claude-code-mods) (five Claude Code mods), [TBA](https://github.com/Xabilimon1/TBA-Token-Budget-Advisor-Claude-Code) (merged into ECC), [save-session](https://github.com/Xabilimon1/save-session), and [this blog](https://xabier.me) |
 | **Writing in public** | [xabier.me](https://xabier.me) — a research notebook, bilingual (ES/EN) |
 | **Studying** | 3rd-year AI Systems Engineering at [UFV](https://www.ufv.es), Madrid |
 
