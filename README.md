@@ -74,7 +74,7 @@ Real systems built for clients and institutions, some live and taking traffic, s
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Xabilimon1/leeuwenhoek"><b>Leeuwenhoek</b></a><br />
-      <sub>Mechanistic explanations of ARC's tiny <a href="https://github.com/alignment-research-center/alg-zoo">AlgZoo</a> networks. First specimen: the 32-parameter RNN that finds the median, with its exact accuracy computed from the weights and a twin that matches it input by input. Writeup on <a href="https://xabier.me/posts/2026-11-08-taking-apart-a-32-number-network">xabier.me</a>.</sub><br />
+      <sub>Mechanistic explanations of ARC's tiny <a href="https://github.com/alignment-research-center/alg-zoo">AlgZoo</a> networks. First specimen: the 32-parameter RNN that finds the median, with its exact accuracy computed from the weights and a twin that matches it input by input. Writeup on <a href="https://xabier.me/posts/2026-11-08-taking-apart-a-32-number-network">xabier.me</a> and the <a href="https://forum.effectivealtruism.org/posts/boaXwxTaB2pYuyGmj/taking-apart-a-32-number-network-1">EA Forum</a>.</sub><br />
       <img src="https://img.shields.io/static/v1?style=for-the-badge&label=focus&message=interpretability%20%7C%20python&labelColor=4338ca&color=0f172a" alt="focus interpretability python" /><br />
       <img src="https://img.shields.io/github/stars/Xabilimon1/leeuwenhoek?style=flat-square&label=stars&color=f59e0b" alt="Leeuwenhoek stars" />
       <img src="https://img.shields.io/github/forks/Xabilimon1/leeuwenhoek?style=flat-square&label=forks&color=818cf8" alt="Leeuwenhoek forks" />
